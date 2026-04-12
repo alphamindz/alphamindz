@@ -8,22 +8,37 @@
 
 ---
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ankur%20Yadav&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Aspiring%20AI%20%26%20ML%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+%26+Next.js+Developer+%F0%9F%9A%80;Building+Scalable+Web+Architectures+%E2%9A%99%EF%B8%8F;Aspiring+AI+%2F+ML+Engineer+%F0%9F%A7%A0;B.Tech+CSE+%40+KMCLU+(2028)+%F0%9F%8E%93)](https://git.io/typing-svg)
+
+</div>
+
+---
+
 ## 🧠 About Me
 
-I'm **Ankur Yadav** (`alphamindz`) — a passionate AI Agent Architect and Full-Stack Engineer from **Prayagraj, India**, currently pursuing my **B.Tech in Computer Science at KMCLU (Batch of 2028)**.
+I'm **Ankur Yadav** (`alphamindz`) — a dedicated **Full-Stack Developer** and **Aspiring AI/ML Engineer** from **Prayagraj, India**. Currently, I am pursuing my **B.Tech in Computer Science at KMCLU (Batch of 2028)**.
 
-I specialize in building **high-performance web architectures** and **autonomous AI systems** that solve real-world problems at scale. My work sits at the intersection of modern web engineering and applied machine learning — from crafting production-grade Next.js applications to training reinforcement learning agents on custom environments.
+I specialize in architecting **high-performance web applications** using the MERN stack and Next.js, while actively researching **Machine Learning** to create intelligent, data-driven solutions. My goal is to build software that isn't just functional, but also smart and scalable.
 
 ```ts
-const ankur = {
-  role        : "AI Agent Architect & Senior Full-Stack Developer",
-  university  : "KMCLU — B.Tech CSE (2028)",
-  location    : "Prayagraj, Uttar Pradesh, India 🇮🇳",
-  currentFocus: ["Agentic AI Systems", "Next.js 14 App Router", "Reinforcement Learning"],
-  openTo      : ["Collaborations", "Open Source", "Research Projects"],
-  funFact     : "I think in systems — from neural nets to distributed APIs.",
+const alphamindz = {
+  identity: {
+    name: "Ankur Yadav",
+    role: "Full-Stack Developer & Aspiring AI/ML Engineer",
+    academic: "B.Tech CSE @ KMCLU (Class of 2028)"
+  },
+  technicalStack: {
+    frontend: ["Next.js 14 (App Router)", "TypeScript", "Tailwind CSS"],
+    backend:  ["Node.js", "Prisma ORM", "PostgreSQL", "Express"],
+    ai_ml:    ["Reinforcement Learning", "Scikit-learn", "Python", "PyTorch"]
+  },
+  location: "Prayagraj, Uttar Pradesh, India 🇮🇳",
+  mantra: "Crafting logic today to build intelligence tomorrow."
 };
-```
 
 ---
 
