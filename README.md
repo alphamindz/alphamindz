@@ -1,8 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0d1117,60:161b22,100:0d1117&height=220&section=header&text=Ankur%20Yadav&fontSize=72&fontColor=58A6FF&animation=fadeIn&fontAlignY=50&stroke=1f6feb&strokeWidth=1&desc=Full%E2%80%93Stack%20Engineer%20%C2%B7%20Next.js%20%C2%B7%20TypeScript%20%C2%B7%20Prayagraj%2C%20India&descAlignY=68&descSize=15&descColor=8b949e" width="100%"/>
 
-<br/>
-
 <div align="center">
+
+<br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=%F0%9F%9A%80+Building+production-grade+web+systems;%E2%9A%99%EF%B8%8F+Next.js+14+%7C+TypeScript+%7C+Prisma+%7C+PostgreSQL;%F0%9F%8E%93+B.Tech+CSE+%40+KMCLU+%C2%B7+2028;%F0%9F%8C%90+Open+Source+%C2%B7+Freelance+%C2%B7+Collab+Ready)](https://git.io/typing-svg)
 
@@ -17,6 +17,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=alphamindz&label=PROFILE+VIEWS&color=58A6FF&style=flat-square)
 ![GitHub followers](https://img.shields.io/github/followers/alphamindz?label=FOLLOWERS&style=flat-square&color=58A6FF&labelColor=0d1117)
+![GitHub stars](https://img.shields.io/github/stars/alphamindz?label=TOTAL+STARS&style=flat-square&color=58A6FF&labelColor=0d1117)
 
 </div>
 
@@ -24,7 +25,7 @@
 
 ---
 
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=alphamindz&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&rank_icon=github&border_color=30363d&bg_color=0d1117&title_color=58A6FF&icon_color=1f6feb&text_color=8b949e&border_radius=12"/>
+<img align="right" width="390" src="https://github-readme-stats.vercel.app/api?username=alphamindz&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&rank_icon=github&border_color=30363d&bg_color=0d1117&title_color=58A6FF&icon_color=1f6feb&text_color=8b949e&border_radius=12&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/>
 
 ### 🧑‍💻 Who am I?
 
@@ -53,15 +54,11 @@ I design and build **production-grade web systems** with a focus on performance,
 
 <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,express,prisma,postgres,mongodb,redis,docker,git,linux,vscode&perline=7&theme=dark"/>
 
-</div>
-
-<br/>
-
-<div align="center">
+<br/><br/>
 
 | Layer | Technologies |
 |:---:|:---|
-| **Frontend** | Next.js 14 App Router · React · TypeScript · Tailwind CSS · Server Components |
+| **Frontend** | Next.js 14 App Router · React · TypeScript · Tailwind CSS · RSC |
 | **Backend** | Node.js · Express.js · Prisma ORM · REST APIs · Server Actions |
 | **Databases** | PostgreSQL · MongoDB · Redis |
 | **DevOps** | Docker · Git · Linux · Vercel · Render |
@@ -85,8 +82,6 @@ I design and build **production-grade web systems** with a focus on performance,
 ```
 
 </div>
-
-A full-stack, **production-ready e-learning platform** architected for scale and performance — where instructors publish courses and students track learning through a beautifully crafted, optimistic-UI dashboard.
 
 <table>
 <tr>
@@ -113,7 +108,29 @@ A full-stack, **production-ready e-learning platform** architected for scale and
 
 **Roadmap →** 💳 Stripe Payments &nbsp;·&nbsp; 🧠 Interactive Quizzes &nbsp;·&nbsp; 🏅 Certificate Generation
 
-[![View Repo](https://img.shields.io/badge/View_Repo-Skill--Lab-%2358A6FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/alphamindz/skill-lab)
+<div align="center">
+
+[![Skill-Lab Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=alphamindz&repo=skill-lab&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58A6FF&icon_color=1f6feb&text_color=8b949e&border_radius=12)](https://github.com/alphamindz/skill-lab)
+
+</div>
+
+---
+
+## ⏱️ Weekly Coding Activity
+
+> 💡 *Auto-updated via [WakaTime](https://wakatime.com) — Set up WakaTime in your editor to activate this section.*
+
+<!--START_SECTION:waka-->
+```text
+TypeScript   █████████████░░░░░░░░░░░  52.4%
+JavaScript   ████████░░░░░░░░░░░░░░░░  31.2%
+CSS          ███░░░░░░░░░░░░░░░░░░░░░  10.8%
+Markdown     █░░░░░░░░░░░░░░░░░░░░░░░   3.6%
+Other        ░░░░░░░░░░░░░░░░░░░░░░░░   2.0%
+```
+<!--END_SECTION:waka-->
+
+> ⚙️ **Setup:** Add [WakaTime GitHub Action](https://github.com/marketplace/actions/waka-readme) to your repo to make this update automatically.
 
 ---
 
@@ -132,11 +149,64 @@ A full-stack, **production-ready e-learning platform** architected for scale and
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+> 🔧 **Setup:** Add this GitHub Action to auto-generate the snake animation:
+> `.github/workflows/snake.yml` → uses `Platane/snk@v3`
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/alphamindz/alphamindz/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alphamindz/alphamindz/output/github-contribution-grid-snake.svg"/>
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/alphamindz/alphamindz/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
+
+</div>
+
+> 📋 **Snake workflow file** (create `.github/workflows/snake.yml`):
+> ```yaml
+> name: Generate Snake
+> on:
+>   schedule: [{ cron: "0 0 * * *" }]
+>   workflow_dispatch:
+> jobs:
+>   generate:
+>     runs-on: ubuntu-latest
+>     steps:
+>       - uses: Platane/snk@v3
+>         with:
+>           github_user_name: alphamindz
+>           outputs: |
+>             dist/github-contribution-grid-snake.svg
+>             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+>       - uses: crazy-max/ghaction-github-pages@v3
+>         with:
+>           target_branch: output
+>           build_dir: dist
+>         env:
+>           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+> ```
+
+---
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=alphamindz&theme=gitdimmed&no-frame=false&margin-w=6&column=7&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews)](https://github.com/alphamindz)
+
+</div>
+
+---
+
+## 💬 Dev Quote of the Day
+
+<div align="center">
+
+[![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&quote=Programs+must+be+written+for+people+to+read%2C+and+only+incidentally+for+machines+to+execute.&author=Harold+Abelson)](https://github.com/piyushsuthar/github-readme-quotes)
+
+> 🔄 *Add [github-readme-quotes](https://github.com/piyushsuthar/github-readme-quotes) Action to auto-rotate quotes daily.*
 
 </div>
 
@@ -166,12 +236,12 @@ A full-stack, **production-ready e-learning platform** architected for scale and
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional-%230A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Gmail-Reach_Out-%23EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ankuryadav20251@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Explore_Work-%23181717?style=flat-square&logo=github&logoColor=white)](https://github.com/alphamindz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Gmail](https://img.shields.io/badge/Gmail-Reach_Out-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:ankuryadav20251@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Explore_Work-%23181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/alphamindz)
 
 </div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:161b22,100:000000&height=120&section=footer&text=Let's+Build+Something+Great&fontSize=26&fontColor=58A6FF&animation=fadeIn&fontAlignY=55&desc=alphamindz+%C2%B7+Full-Stack+Engineer+%C2%B7+Prayagraj%2C+India&descSize=13&descColor=8b949e&descAlignY=78" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:161b22,100:000000&height=120&section=footer&text=Let's+Build+Something+Great&fontSize=26&fontColor=58A6FF&animation=fadeIn&fontAlignY=55&desc=alphamindz+%C2%B7+Full-Stack+Engineer+%C2%B7+Prayagraj%2C%20India&descSize=13&descColor=8b949e&descAlignY=78" width="100%"/>
