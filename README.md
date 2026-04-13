@@ -25,7 +25,7 @@
 
 ---
 
-<img align="right" width="390" src="https://github-readme-stats.vercel.app/api?username=alphamindz&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&rank_icon=github&border_color=30363d&bg_color=0d1117&title_color=58A6FF&icon_color=1f6feb&text_color=8b949e&border_radius=12&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/>
+<img align="right" width="390" src="https://github-readme-stats.vercel.app/api?username=alphamindz&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&rank_icon=github&border_color=30363d&bg_color=0d1117&title_color=58A6FF&icon_color=1f6feb&text_color=8b949e&border_radius=12"/>
 
 ### 🧑‍💻 Who am I?
 
@@ -118,8 +118,6 @@ I design and build **production-grade web systems** with a focus on performance,
 
 ## ⏱️ Weekly Coding Activity
 
-> 💡 *Auto-updated via [WakaTime](https://wakatime.com) — Set up WakaTime in your editor to activate this section.*
-
 <!--START_SECTION:waka-->
 ```text
 TypeScript   █████████████░░░░░░░░░░░  52.4%
@@ -129,8 +127,6 @@ Markdown     █░░░░░░░░░░░░░░░░░░░░░�
 Other        ░░░░░░░░░░░░░░░░░░░░░░░░   2.0%
 ```
 <!--END_SECTION:waka-->
-
-> ⚙️ **Setup:** Add [WakaTime GitHub Action](https://github.com/marketplace/actions/waka-readme) to your repo to make this update automatically.
 
 ---
 
@@ -153,9 +149,6 @@ Other        ░░░░░░░░░░░░░░░░░░░░░░�
 
 <div align="center">
 
-> 🔧 **Setup:** Add this GitHub Action to auto-generate the snake animation:
-> `.github/workflows/snake.yml` → uses `Platane/snk@v3`
-
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/alphamindz/alphamindz/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alphamindz/alphamindz/output/github-contribution-grid-snake.svg"/>
@@ -163,30 +156,6 @@ Other        ░░░░░░░░░░░░░░░░░░░░░░�
 </picture>
 
 </div>
-
-> 📋 **Snake workflow file** (create `.github/workflows/snake.yml`):
-> ```yaml
-> name: Generate Snake
-> on:
->   schedule: [{ cron: "0 0 * * *" }]
->   workflow_dispatch:
-> jobs:
->   generate:
->     runs-on: ubuntu-latest
->     steps:
->       - uses: Platane/snk@v3
->         with:
->           github_user_name: alphamindz
->           outputs: |
->             dist/github-contribution-grid-snake.svg
->             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
->       - uses: crazy-max/ghaction-github-pages@v3
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
 
 ---
 
@@ -204,9 +173,7 @@ Other        ░░░░░░░░░░░░░░░░░░░░░░�
 
 <div align="center">
 
-[![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&quote=Programs+must+be+written+for+people+to+read%2C+and+only+incidentally+for+machines+to+execute.&author=Harold+Abelson)](https://github.com/piyushsuthar/github-readme-quotes)
-
-> 🔄 *Add [github-readme-quotes](https://github.com/piyushsuthar/github-readme-quotes) Action to auto-rotate quotes daily.*
+[![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
@@ -244,4 +211,4 @@ Other        ░░░░░░░░░░░░░░░░░░░░░░�
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:161b22,100:000000&height=120&section=footer&text=Let's+Build+Something+Great&fontSize=26&fontColor=58A6FF&animation=fadeIn&fontAlignY=55&desc=alphamindz+%C2%B7+Full-Stack+Engineer+%C2%B7+Prayagraj%2C%20India&descSize=13&descColor=8b949e&descAlignY=78" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:161b22,100:000000&height=120&section=footer&text=Let's+Build+Something+Great&fontSize=26&fontColor=58A6FF&animation=fadeIn&fontAlignY=55&desc=alphamindz+%C2%B7+Full-Stack+Engineer+%C2%B7+Prayagraj%2C+India&descSize=13&descColor=8b949e&descAlignY=78" width="100%"/>
