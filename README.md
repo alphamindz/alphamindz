@@ -1,85 +1,102 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ankur%20Yadav&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Next.js%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ankur%20Yadav&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Full-Stack%20Engineer%20%E2%80%A2%20Next.js%20%E2%80%A2%20Systems%20Architect&descAlignY=65&descSize=16&stroke=58A6FF&strokeWidth=2" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+%26+Next.js+Developer+%F0%9F%9A%80;Building+Scalable+Web+Architectures+%E2%9A%99%EF%B8%8F;MERN+Stack+Engineer+%F0%9F%94%A5;B.Tech+CSE+%40+KMCLU+(2028)+%F0%9F%8E%93)](https://git.io/typing-svg)
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=false&width=650&lines=Crafting+scalable+systems+%E2%80%94+one+commit+at+a+time+%F0%9F%9A%80;Next.js+14+%7C+TypeScript+%7C+PostgreSQL+%7C+Prisma;B.Tech+CSE+%40+KMCLU+%C2%B7+Batch+2028+%F0%9F%8E%93;Open+to+Collaborations+%26+Open+Source+%F0%9F%8C%90)](https://git.io/typing-svg)
+
+<br/>
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:ankuryadav20251@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/alphamindz"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=flat-square&logo=github&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=alphamindz&label=Profile+Views&color=58A6FF&style=flat-square"/>
 
 </div>
 
 ---
 
-## 🧠 About Me
-
-I'm **Ankur Yadav** (`alphamindz`) — a dedicated **Full-Stack Developer** from **Prayagraj, India**, currently pursuing my **B.Tech in Computer Science at KMCLU (Batch of 2028)**.
-
-I specialize in architecting **high-performance, scalable web applications** using the MERN stack and Next.js. My goal is to write clean, production-ready code that is fast, maintainable, and impactful.
+## `$ whoami`
 
 ```ts
-const alphamindz = {
-  identity: {
-    name    : "Ankur Yadav",
-    role    : "Full-Stack Developer",
-    academic: "B.Tech CSE @ KMCLU (Class of 2028)",
+const ankur: Developer = {
+  name      : "Ankur Yadav",
+  alias     : "alphamindz",
+  role      : "Full-Stack Engineer",
+  education : "B.Tech Computer Science @ KMCLU (2028)",
+  location  : "Prayagraj, Uttar Pradesh 🇮🇳",
+
+  stack: {
+    frontend  : ["Next.js 14 (App Router)", "React", "TypeScript", "Tailwind CSS"],
+    backend   : ["Node.js", "Express.js", "Prisma ORM", "REST APIs"],
+    databases : ["PostgreSQL", "MongoDB", "Redis"],
+    devops    : ["Docker", "Git", "Linux", "Vercel", "Render"],
   },
-  technicalStack: {
-    frontend: ["Next.js 14 (App Router)", "TypeScript", "Tailwind CSS"],
-    backend : ["Node.js", "Express.js", "Prisma ORM", "PostgreSQL"],
-    database: ["PostgreSQL", "MongoDB", "Redis"],
-  },
-  location: "Prayagraj, Uttar Pradesh, India 🇮🇳",
-  openTo  : ["Collaborations", "Open Source", "Freelance"],
-  mantra  : "Clean code. Scalable systems. Real impact.",
+
+  currentFocus: [
+    "Building production-grade web apps",
+    "Mastering system design patterns",
+    "Contributing to open-source ecosystems",
+  ],
+
+  openTo   : ["Collaborations", "Freelance", "Open Source"],
+  mantra   : "Clean code. Scalable systems. Real impact.",
 };
 ```
 
 ---
 
-## 🛠️ Tech Arsenal
+## ⚡ Tech Stack
 
 <div align="center">
 
-### ⚡ Frontend
+#### Frontend
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
 
-### 🔧 Backend & APIs
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=61DAFB)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+#### Backend & APIs
+![Node.js](https://img.shields.io/badge/Node.js-1a1a1a?style=for-the-badge&logo=node.js&logoColor=6DA55F)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=Prisma&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6B35?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### 🗄️ Databases & Storage
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
-
-### ⚙️ DevOps & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+#### Databases & Infra
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f172a?style=for-the-badge&logo=postgresql&logoColor=4DB8FF)
+![MongoDB](https://img.shields.io/badge/MongoDB-1a1a1a?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
+![Redis](https://img.shields.io/badge/Redis-1a1a1a?style=for-the-badge&logo=redis&logoColor=DD0031)
+![Docker](https://img.shields.io/badge/Docker-0f172a?style=for-the-badge&logo=docker&logoColor=2496ED)
 
 </div>
 
 ---
 
-## 🚀 Featured Project
+## 🏗️ Featured Project
 
-### 🎓 [Skill-Lab](https://github.com/alphamindz/skill-lab) — Full-Stack E-Learning Platform
-> **Tech:** Next.js 14 App Router · Prisma ORM · Server Actions · PostgreSQL · TypeScript · Tailwind CSS
+<table>
+<tr>
+<td width="100%">
 
-A full-stack, production-grade **e-learning platform** built for scale and performance. Skill-Lab allows instructors to create and manage courses while students track their learning progress through a seamless, responsive dashboard.
+### 🎓 [Skill-Lab](https://github.com/alphamindz/skill-lab) — Production E-Learning Platform
 
-Built on the latest **Next.js 14 App Router** paradigm with React Server Components, Server Actions, and edge-ready architecture.
+> **Stack:** `Next.js 14 App Router` · `TypeScript` · `Prisma ORM` · `PostgreSQL` · `Tailwind CSS` · `Server Actions`
 
-**Key Highlights:**
-- ✅ **Server Actions** for zero-boilerplate, type-safe data mutations
-- ✅ **Role-based access control** — Student / Instructor / Admin roles
-- ✅ **Prisma ORM + PostgreSQL** for relational data integrity and type-safe queries
-- ✅ **Real-time progress tracking** with optimistic UI updates
-- ✅ **Responsive design** with Tailwind CSS across all screen sizes
+A full-stack, production-grade **e-learning platform** built for scale, performance, and developer ergonomics. Instructors create and manage courses; students track their learning through a responsive, optimistic-UI dashboard.
+
+| Feature | Details |
+|---|---|
+| 🔐 Auth & Roles | Student / Instructor / Admin with RBAC |
+| ⚡ Data Layer | Type-safe Prisma ORM + PostgreSQL |
+| 🔄 Mutations | Server Actions — zero-boilerplate, type-safe |
+| 📈 Progress | Real-time tracking with optimistic UI updates |
+| 📱 UI | Fully responsive with Tailwind CSS |
+| 🔭 Roadmap | Payments · Quizzes · Certificate Generation |
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -87,16 +104,16 @@ Built on the latest **Next.js 14 App Router** paradigm with React Server Compone
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alphamindz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github" alt="Ankur's GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphamindz&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=alphamindz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github&border_radius=10&hide_border=false"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphamindz&layout=compact&langs_count=8&theme=tokyonight&border_radius=10"/>
 
 <br/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alphamindz&theme=tokyonight&hide_border=false)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alphamindz&theme=tokyonight&hide_border=false&border_radius=10&date_format=j%20M%5B%20Y%5D)
 
 <br/>
 
-[![Ankur's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alphamindz&theme=tokyo-night&hide_border=false)](https://github.com/alphamindz)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alphamindz&theme=tokyo-night&hide_border=false&radius=8)](https://github.com/alphamindz)
 
 </div>
 
@@ -106,40 +123,36 @@ Built on the latest **Next.js 14 App Router** paradigm with React Server Compone
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=alphamindz&theme=tokyonight&no-frame=false&no-bg=false&margin-w=6&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=alphamindz&theme=tokyonight&no-frame=false&margin-w=8&column=7)
 
 </div>
 
 ---
 
-## 🔭 Currently Working On
+## 🎯 2026 Goals
 
-- ⚙️ **Skill-Lab** — adding new features: payments, quizzes & certificate generation
-- 🌐 **Open-source contributions** — full-stack tooling for the Next.js ecosystem
-- 📦 **Reusable component library** — accessible UI kit with Tailwind CSS
+```
+  ██░░░░░░░░░░  Next.js Advanced Patterns      [ In Progress ]
+  ████░░░░░░░░  System Design Fundamentals      [ In Progress ]
+  ██████░░░░░░  Open Source Contributions       [ Active      ]
+  ████████░░░░  Skill-Lab v2 (Payments + Quiz)  [ Building    ]
+  ░░░░░░░░░░░░  SaaS Side Project               [ Planned     ]
+```
 
 ---
 
-## 📬 Let's Connect
+## 🤝 Let's Build Something
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankuryadav20251@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alphamindz)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=alphamindz&label=Profile+Views&color=0e75b6&style=flat)
-
-</div>
+> I'm always open to collaborating on meaningful full-stack projects, contributing to OSS, or discussing engineering ideas.
+>
+> **Reach me:** [ankuryadav20251@gmail.com](mailto:ankuryadav20251@gmail.com) · [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer&animation=fadeIn" width="100%"/>
 
-> *"Clean code. Scalable systems. Real impact."*
+*"Clean code. Scalable systems. Real impact."*
 
 </div>
