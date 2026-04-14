@@ -143,42 +143,6 @@ Other        ░░░░░░░░░░░░░░░░░░░░░░�
 
 </div>
 
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/alphamindz/alphamindz/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alphamindz/alphamindz/output/github-contribution-grid-snake.svg"/>
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/alphamindz/alphamindz/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=alphamindz&theme=gitdimmed&no-frame=false&margin-w=6&column=7&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews)](https://github.com/alphamindz)
-
-</div>
-
----
-
-## 💬 Dev Quote of the Day
-
-<div align="center">
-
-[![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
-
----
-
 ## 📌 Current Focus
 
 <div align="center">
