@@ -159,7 +159,7 @@ Other        ░░░░░░░░░░░░░░░░░░░░░░�
 
 ---
 
-## 🤝 Connect & Collaborate
+##  Connect & Collaborate
 
 <div align="center">
 
