@@ -67,7 +67,7 @@ I design and build **production-grade web systems** with a focus on performance,
 
 ---
 
-## 🚀 Featured Project
+##  Featured Project
 
 <div align="center">
 
