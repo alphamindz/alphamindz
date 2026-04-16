@@ -27,7 +27,7 @@
 
 <img align="right" width="390" src="https://github-readme-stats.vercel.app/api?username=alphamindz&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&rank_icon=github&border_color=30363d&bg_color=0d1117&title_color=58A6FF&icon_color=1f6feb&text_color=8b949e&border_radius=12"/>
 
-### 🧑‍💻 Who am I?
+###  Who am I?
 
 I'm **Ankur Yadav** — a passionate **Full-Stack Engineer** from Prayagraj, India, currently in my second year of B.Tech CSE at **KMCLU (Batch of 2028)**.
 
