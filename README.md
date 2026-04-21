@@ -130,7 +130,7 @@ Other        ░░░░░░░░░░░░░░░░░░░░░░�
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -143,7 +143,7 @@ Other        ░░░░░░░░░░░░░░░░░░░░░░�
 
 </div>
 
-## 📌 Current Focus
+##  Current Focus
 
 <div align="center">
 
@@ -163,7 +163,7 @@ Other        ░░░░░░░░░░░░░░░░░░░░░░�
 
 <div align="center">
 
-> 💡 Got an idea? Want to build something together? I'm always open.
+>  Got an idea? Want to build something together? I'm always open.
 
 <br/>
 
