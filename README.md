@@ -116,7 +116,7 @@ I design and build **production-grade web systems** with a focus on performance,
 
 ---
 
-## ⏱️ Weekly Coding Activity
+##  Weekly Coding Activity
 
 <!--START_SECTION:waka-->
 ```text
